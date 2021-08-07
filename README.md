@@ -5,7 +5,7 @@
 </h1>
 </div>
 <p align="center">
-  Dibuat Oleh <a href="https://www.facebook.com/SY41FUL.R4HM4T02">Syaiful Rahmat</a>
+  Dibuat Oleh <a href="https://www.facebook.com/IwanDev04">Iwan Dev</a>
 </p>
 <p align="center">
  
