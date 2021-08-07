@@ -1,7 +1,7 @@
 # pulXD
 
 <h1 align="center">
-  YMBF
+  PUL
 </h1>
 </div>
 <p align="center">
