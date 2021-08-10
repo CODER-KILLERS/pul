@@ -19,8 +19,7 @@ $ pip2 install requests
 $ pip2 install bs4
 $ pip2 install ipaddress
 $ git clone https://github.com/Ipul-XV/pul
-$ cd pul
-$ python2 pulxv.py
+
 ```
 #### Run script
 ```bash
